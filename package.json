@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-dlink-dspW115",
+  "version": "1.0.0",
+  "description": "Turn on/off Dlink DSP W115 smart plug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Gupta",
+  "license": "MIT",
+  "engines": {
+    "homebridge": ">=0.4.0"
+  },
+  "dependencies": [
+    "dlink_websocketclient"
+  ],
+  "repository": "https://github.com/biocross/homebridge-servo-switch",
+  "keywords": [
+    "homebridge-plugin",
+    "homekit",
+    "apple"
+  ],
+  "homepage": "https://github.com/biocross/homebridge-servo-switch"
+}
