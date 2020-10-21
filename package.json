@@ -14,11 +14,14 @@
   "dependencies": [
     "dlink_websocketclient"
   ],
-  "repository": "https://github.com/biocross/homebridge-servo-switch",
+  "repository": "https://github.com/biocross/homebridge-dlink-dspW115",
   "keywords": [
     "homebridge-plugin",
     "homekit",
-    "apple"
+    "apple",
+    "dlink",
+    "dsp",
+    "w115"
   ],
-  "homepage": "https://github.com/biocross/homebridge-servo-switch"
+  "homepage": "https://github.com/biocross/homebridge-dlink-dspW115"
 }
